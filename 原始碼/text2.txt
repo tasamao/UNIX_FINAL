@@ -1,0 +1,9 @@
+Hi , I am Tim.
+my favorite fruit is apple.
+I am from Taiwan.
+SAS is a leader in business analytics.
+Through innovative analytics it caters to business intelligence and data management software and services.
+SAS transforms data into insight which can give a fresh perspective on business.
+Unlike other BI tools available in the market, SAS takes an extensive programming approach to data transformation and analysis rather than a pure drag drop and connect approach.
+That makes it stand out from the crowd as it gives much finer control over data manipulation.
+SAS has a very large number of components customized for specific industries and data analysis tasks.
