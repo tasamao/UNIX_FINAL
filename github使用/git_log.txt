@@ -1,0 +1,25 @@
+commit 0210a33695ae0cfaa12e0d39d0fffd291dd339b8
+Author: wei Chen <dc3592656@gmail.com>
+Date:   Sat Jun 8 11:41:02 2019 +0800
+
+    modify SPEC.txt
+
+commit 5353636f3c8587c492d7eb34ba1d1d0e98354c8e
+Author: Major_1051508 <leetsungmao@msn.com>
+Date:   Fri Jun 7 16:24:39 2019 +0800
+
+    modify some bug
+
+commit bd6748f0c460471d5d5c6bc7bca3e548a601ec3d
+Author: tasamao <51473789+tasamao@users.noreply.github.com>
+Date:   Fri Jun 7 15:56:33 2019 +0800
+
+    generate main.sh and first draft of check.pl
+    
+    generate main.sh and first draft of check.pl
+
+commit 18917225e3cfe6cd08bd1b5c5f6453ab4d1a82e9
+Author: Major_1051508 <leetsungmao@msn.com>
+Date:   Fri Jun 7 15:49:39 2019 +0800
+
+    first draft
